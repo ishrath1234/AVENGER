@@ -1,0 +1,22 @@
+ body{
+text-align: center;
+background-color: black;
+color: aqua;
+}
+img
+{
+border:5px solid rgb(0, 170, 255);
+}
+#img1{
+border-radius: 700px;
+}
+#img2{
+    border-radius: 800px;
+    height: 340px;
+    width: 230px;
+}
+p{
+max-width: 1000px;
+margin: 8px auto;
+}
+
